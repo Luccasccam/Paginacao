@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+      
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+li{
+    list-style: none;
+    padding: 10px;
+    width: 15px;
+    border: 1px solid #95b8eb;
+    
+}
+li:hover{
+    background: #e8ecef;
+}
+a{
+    text-decoration: none;
+    color: #95b8eb;
+}
